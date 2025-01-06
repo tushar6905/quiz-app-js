@@ -1,0 +1,22 @@
+.quiz{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Montserrat','sans-serif';
+}
+
+.subtitle{
+    font-size: 25px;
+    border: 1px solid #000;
+    box-shadow: 4px 4px 2px #00000076;
+    padding: 5px 10px;
+    border-radius: 100px;
+}
+
+.quizInfo{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    text-transform: uppercase;
+    margin: 10px;
+}
